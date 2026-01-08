@@ -18,5 +18,5 @@ My primary programming language is **C#**, and I am also familiar with engineeri
 
 I am passionate about bridging **civil engineering problems** with **advanced computational methods**, and translating algorithms into practical engineering tools.
 
-[Email](mailto:surui_swjtu@163.com) / [Github](https://github.com/SuryGeo) / / [CNBlog](https://www.cnblogs.com/value7)
+[Email](mailto:surui_swjtu@163.com) / [Github](https://github.com/SuryGeo) / [CNBlog](https://www.cnblogs.com/value7)
 
