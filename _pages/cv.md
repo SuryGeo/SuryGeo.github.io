@@ -11,26 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in School of Civil Engineering, Southwest Jiaotong University, 2026 (expected)
+* M.S. in College of Environment and Civil Engineering, Chengdu University of Technology, 2020-2023
+* B.S. in School of Civil Engineering, Lanzhou University Of Technology, 2014-2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024 - 2026: Research Assistant
+  * Southwest Jiaotong University
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023 - 2024: Geological Engineer
+  * Sichuan Institute of Geological Engineering Investigation Group Co. Ltd.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
